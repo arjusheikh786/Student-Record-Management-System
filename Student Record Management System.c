@@ -8,6 +8,7 @@ struct Student {
     float marks;
 };
 
+
 struct Student students[100];
 int count = 0;
 
